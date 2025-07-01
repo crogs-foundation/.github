@@ -6,7 +6,7 @@
 
 ## <img src="https://github.com/user-attachments/assets/83dff1ce-69b1-4b31-a75d-4b6c1fb7aa9b" width="32" height="32" alt="Crog">&nbsp;About Crogs
 
-**Crogs Foundation** is a community of enthusiastic developers, who wnat (and can) make the around world more funny and cozy
+**Crogs Foundation** is a community of enthusiastic developers, who want (and can) make the around world more funny and cozy
 
 ---
 
